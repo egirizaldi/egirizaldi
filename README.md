@@ -44,7 +44,7 @@ I have experience building websites with WordPress, and I’m currently learning
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=egirizaldi&theme=react&show_icons=true&hide_border=false)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=egirizaldi&theme=react&hide_border=false&currStreakNum=61DAFB&sideLabels=61DAFB&currStreakLabel=61DAFB)
+![GitHub Streak](https://streak-stats.demolab.com?user=egirizaldi&theme=react&hide_border=false&currStreakNum=61DAFB&sideLabels=61DAFB&currStreakLabel=61DAFB)
 
 ---
 
